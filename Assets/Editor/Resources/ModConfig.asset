@@ -17,7 +17,8 @@ MonoBehaviour:
   description: "Unfortunately our nice little password module had a defect. It should
     still work, probably.\n\r\nMade for the 6th KTANE Modding Jam.\r\n\r\nHTML: https://ktane.timwi.de/HTML/Busted%20Password.html\r\nPDF:
     https://ktane.timwi.de/PDF/Busted%20Password.pdf\r\n\r\nBusted Password (bustedPasswordModule)
-    v1.0.0\nModule Idea by eXish\nModeling by Red Penguin\nImplemented by eXish"
+    v1.0.0\nModule Idea by eXish\nModeling by Red Penguin\nImplemented by eXish\nTwitch
+    Plays supported"
   version: 1.0.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 20630d4dbea69fa49b9351f30343b0f6, type: 3}
