@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: bustedPasswordModule
+  title: Busted Password
+  author: eXish, Red Penguin
+  description: "Unfortunately our nice little password module had a defect. It should
+    still work, probably.\n\r\nMade for the 6th KTANE Modding Jam.\r\n\r\nHTML: https://ktane.timwi.de/HTML/Busted%20Password.html\r\nPDF:
+    https://ktane.timwi.de/PDF/Busted%20Password.pdf\r\n\r\nBusted Password (bustedPasswordModule)
+    v1.0.0\nModule Idea by eXish\nModeling by Red Penguin\nImplemented by eXish"
+  version: 1.0.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 20630d4dbea69fa49b9351f30343b0f6, type: 3}
